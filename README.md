@@ -1,5 +1,7 @@
-- Hi, I’m @suzu-devworks
-- Sorry for the ugly English. And thank you google translate.
+Hi, I’m @suzu-devworks.  
+I'm a programmer based in Sapporo, Japan. 
+
+Sorry for the ugly English. And thank you google translate.  
 
 <!---
 suzu-devworks/suzu-devworks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
